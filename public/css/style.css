@@ -1,0 +1,47 @@
+body {
+    width: auto;
+    margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+    background-color: aquamarine;
+}
+
+
+/* This will fomart the whole fieldset content*/
+
+.container {
+    width: 80%;
+    margin: 0 auto; 
+}
+
+
+.ghost-input,
+p {
+    display: block;
+    font-weight: 300;
+    width: 100%;
+    font-size: 25px;
+    outline: #4c74a4;
+    width: 100%;
+    color: #4c74a4;
+    background: #fff;
+    font-family: Open Sans, Verdana;
+    padding: 10px 15px;
+    margin: 30px 0px;
+}
+
+
+.ghost-button {
+    background-color: transparent;
+    border: 2px solid #ddd;
+    padding: 10px 30px;
+    width: 100%;
+    min-width: 350px;
+}
+
+.ghost-button:hover {
+    border: 2px solid #515151;
+}
+
+p {
+    color: #E64A19;
+}
